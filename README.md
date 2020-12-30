@@ -1,5 +1,5 @@
 # dynamic-dependent-select-box
-Resize an image using the GD library in PHP
+Dynamic dependent select box using jQuery, Ajax, and PHP
 
 ## Documentation
 
